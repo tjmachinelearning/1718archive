@@ -1,3 +1,3 @@
-Official TJHSST Machine Learning Club Website
+Archive of the 2017-2018 TJ Machine Learning Club site.
 
-[TJ Machine Learning Club Github Organization](https://github.com/tjmachinelearning)
+The current site can be found [here](https://tjmachinelearning.com).
